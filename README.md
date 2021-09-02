@@ -1,2 +1,2 @@
-# minefield-app
+# Minefield APP
  Mine field game Flutter App
